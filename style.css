@@ -98,10 +98,18 @@ button {
   outline: none;
 }
 
+.attribution {
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
 /*=============== GENERAL CLASSES ===============*/
 .container {
   max-width: 968px;
-  padding: 1rem;
+  padding: 10rem;
 }
 
 .card {
